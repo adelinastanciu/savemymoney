@@ -1,0 +1,6 @@
+INDEX VERSION 1.4+C:\Users\Adelina\Downloads\SB-Admin-BS4-Angular-8-master\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+4041794921.index
+3328141996.index
+3920889070.index
+944420633.index
+613958377.index
